@@ -20,7 +20,7 @@ namespace ToDoApp.Controllers
         }
 
 
-
+        //*S: http methods
         [HttpGet]
         public ActionResult<List<ToDo>> GetAll()
         {
