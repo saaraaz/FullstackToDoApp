@@ -10,6 +10,5 @@ React js
 
 
 
-### This is a basic full stack app and was done as part of a tech interview
-BYE~\\\\
-Edited again!
+### This is a basic full stack app, done as part of a tech interview
+
