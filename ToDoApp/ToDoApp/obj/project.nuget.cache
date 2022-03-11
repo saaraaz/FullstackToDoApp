@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8s0ff9rxCzspBipNl83VWlOe48dMHhDxtxF5ScyOPleat/Q3K4LXqH560MZEYcVH7aHcd1fxIzzRz3xSWA0AJA==",
+  "dgSpecHash": "a9AFWCcF2vksg2iuWAYEijv7XqvYbHSjeS1EoVpGfm7jgn0cFcHZFPev1ZLEQsJ9sZfSks66aW7CutJN5h7kjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saras\\Desktop\\MyDox\\C.S\\FullStack\\Udemy\\Section1\\TestApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
+  "projectFilePath": "C:\\Users\\saras\\Desktop\\MyDox\\C.S\\FullStack\\GitTest\\FullstackToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saras\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\saras\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
