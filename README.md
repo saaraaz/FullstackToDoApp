@@ -11,5 +11,3 @@ React js
 
 
 ### This is a basic full stack app, done as part of a tech interview
--- before my-ticket-01
-
